@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063369365917",
+    "project_id": "ecome-eda8c",
+    "storage_bucket": "ecome-eda8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063369365917:android:3950b832a5f08831dbb774",
+        "android_client_info": {
+          "package_name": "com.example.first_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJizpuiIFdy3PfAP6ZszUFWquD4v9DKw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
